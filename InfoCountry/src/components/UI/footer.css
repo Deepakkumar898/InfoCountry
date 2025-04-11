@@ -1,0 +1,36 @@
+.footer-section {
+  box-shadow: rgba(33, 35, 38, 0.1) ppx 10px 10px -10px;
+  background-color: rgb(42, 42, 42);
+  width: 100%;
+}
+.container {
+  max-width: 132rem;
+}
+.grid {
+  display: grid;
+}
+.grid-three-cols {
+  grid-template-columns: repeat(3, 0.5fr);
+  align-items: center;
+  height: 10rem;
+  padding: 0 6.2rem;
+  margin-left: 40px;
+}
+.footer-contact {
+  display: flex;
+  gap: 10px;
+}
+.icon {
+  font-size: 40px;
+  color: blue;
+}
+.footer-contact-text {
+  margin-top: 5px;
+  & :first-child {
+    font-weight: bold;
+  }
+  & :last-child {
+    font-size: 13px;
+    font-weight: 100 lighter;
+  }
+}

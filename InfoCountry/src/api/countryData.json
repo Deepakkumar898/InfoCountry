@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "Fantasia",
+    "capital": "Mirage City",
+    "population": 5000000,
+    "interestingFact": "Fantasia has floating islands that move with the wind."
+  },
+  {
+    "id": 2,
+    "countryName": "Zetronia",
+    "capital": "Solaris",
+    "population": 12000000,
+    "interestingFact": "Zetronia's capital city is entirely powered by solar energy."
+  },
+  {
+    "id": 3,
+    "countryName": "Elveria",
+    "capital": "Rivertown",
+    "population": 8500000,
+    "interestingFact": "Elveria has the world's largest underground river system."
+  },
+  {
+    "id": 4,
+    "countryName": "Lumoria",
+    "capital": "Glowhaven",
+    "population": 6300000,
+    "interestingFact": "Lumoria is known for its bioluminescent beaches."
+  },
+  {
+    "id": 5,
+    "countryName": "Draconis",
+    "capital": "Dragonspear",
+    "population": 4300000,
+    "interestingFact": "Draconis has an annual festival where people build giant dragon-shaped kites."
+  },
+  {
+    "id": 6,
+    "countryName": "Verdantia",
+    "capital": "Greenville",
+    "population": 7200000,
+    "interestingFact": "Verdantia is home to a massive ancient tree that is over 5,000 years old."
+  },
+  {
+    "id": 7,
+    "countryName": "Aetheria",
+    "capital": "Skyhold",
+    "population": 9100000,
+    "interestingFact": "Aetheria has a floating city suspended by advanced anti-gravity technology."
+  },
+  {
+    "id": 8,
+    "countryName": "Nocturnia",
+    "capital": "Eclipsia",
+    "population": 5400000,
+    "interestingFact": "Nocturnia experiences almost 20 hours of darkness during winter."
+  },
+  {
+    "id": 9,
+    "countryName": "Atlantis",
+    "capital": "Poseidonia",
+    "population": 6800000,
+    "interestingFact": "Atlantis is a technologically advanced underwater civilization."
+  },
+  {
+    "id": 10,
+    "countryName": "Solaria",
+    "capital": "Heliopolis",
+    "population": 11000000,
+    "interestingFact": "Solaria’s capital has a giant solar tower that powers the entire country."
+  }
+]
